@@ -1,0 +1,43 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+.Maindiv {
+    width: 100vw; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.paper {
+    background-color: #4990F5;
+    color: 51BBFE;
+        width: 20vw;
+        height: 60vh;
+        text-align: center;
+        -moz-box-shadow: 5px 5px 5px #777777;
+-webkit-box-shadow: 5px 5px 5px #777777;
+box-shadow: 5px 5px 5px #777777;
+border-radius: 20px;
+}
+input{
+    margin: 30px;
+    border-radius: 10px;
+   
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    line-height: 3;
+}
+.icone{
+    font-size: xx-large;
+}
+h4{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color:#266061;
+    line-height: 3;
+}
+h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
