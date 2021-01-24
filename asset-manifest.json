@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wather/static/css/main.8dc06a2d.chunk.css",
+    "main.js": "/Wather/static/js/main.f704c25e.chunk.js",
+    "main.js.map": "/Wather/static/js/main.f704c25e.chunk.js.map",
+    "runtime-main.js": "/Wather/static/js/runtime-main.da8ee9fe.js",
+    "runtime-main.js.map": "/Wather/static/js/runtime-main.da8ee9fe.js.map",
+    "static/js/2.ed8f0fb9.chunk.js": "/Wather/static/js/2.ed8f0fb9.chunk.js",
+    "static/js/2.ed8f0fb9.chunk.js.map": "/Wather/static/js/2.ed8f0fb9.chunk.js.map",
+    "index.html": "/Wather/index.html",
+    "static/css/main.8dc06a2d.chunk.css.map": "/Wather/static/css/main.8dc06a2d.chunk.css.map",
+    "static/js/2.ed8f0fb9.chunk.js.LICENSE.txt": "/Wather/static/js/2.ed8f0fb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da8ee9fe.js",
+    "static/js/2.ed8f0fb9.chunk.js",
+    "static/css/main.8dc06a2d.chunk.css",
+    "static/js/main.f704c25e.chunk.js"
+  ]
+}
